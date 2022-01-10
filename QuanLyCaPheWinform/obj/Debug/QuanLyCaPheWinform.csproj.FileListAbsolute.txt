@@ -1,0 +1,14 @@
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\bin\Debug\QuanLyCaPheWinform.exe.config
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\bin\Debug\QuanLyCaPheWinform.exe
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\bin\Debug\QuanLyCaPheWinform.pdb
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.csproj.AssemblyReference.cache
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.FrmLogin.resources
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.Properties.Resources.resources
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.csproj.GenerateResource.cache
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.csproj.CoreCompileInputs.cache
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.exe
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.pdb
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.FrmManager1.resources
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.FrmMainMenu1.resources
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.FrmAcount.resources
+D:\winform_finalexam\project\QuanLyCaPheWinform\QuanLyCaPheWinform\obj\Debug\QuanLyCaPheWinform.FrmAdmin.resources
